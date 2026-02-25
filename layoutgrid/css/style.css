@@ -22,7 +22,7 @@
     justify-content: center;
     text-align: center;
     font-size: 25px;
-    border: 2px solid black;
+    background-color: gray;
 }
  
 .header{
